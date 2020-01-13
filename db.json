@@ -1,0 +1,271 @@
+{
+  "Canteen" : {
+    "KFC" : {
+      "image":"images/chicken.jpg",
+      "waittime": 2,
+      "hours" : {
+        "Monday" : {
+          "close" : "22:00",
+          "open" : "07:30"
+        },
+        "Tuesday" : {
+          "close" : "22:00",
+          "open" : "07:30"
+        },
+        "Wednesday" : {
+          "close" : "22:00",
+          "open" : "07:30"
+        },
+        "Thursday" : {
+          "close" : "22:00",
+          "open" : "07:30"
+        },
+        "Friday" : {
+          "close" : "22:00",
+          "open" : "07:30"
+        },
+        "Saturday" : {
+          "close" : "21:00",
+          "open" : "09:30"
+        },
+        "Sunday" : {
+          "close" : "21:00",
+          "open" : "Closed"
+        }
+      },
+      "breakfast" : {
+        "KFC breakfast" : 8.4,
+        "Breakfast KFC" : 9.5,
+        "KFC Porride" : 4.2,
+        "KFC bWrap" : 6.75
+      },
+      "lunch" : {
+        "KFC Lunch" : 9.5,
+        "Spicy KFC Chicken" : 4.2,
+        "Medium Spicy Chicken" : 6.75
+      },
+      "dinner" : {
+        "Spicy Dinner" : 9.5,
+        "Not Spicy Dinner" : 4.2,
+        "Normal KFC Dinner" : 6.75
+      },
+      "standardmenu" : {
+        "Bandito Meal" : 8.4,
+        "Chicken Bucket" : 9.5,
+        "Surprise Box" : 4.2,
+        "Zinger Meal" : 6.75
+      }
+    },
+    "McDonalds" : {
+      "image":"images/mcd.jpg",
+      "waittime": 3,
+      "hours" : {
+        "Monday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Tuesday" : {
+          "close":"23:00",
+          "open" : "08:00"
+        },
+        "Wednesday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Thursday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Friday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Saturday" : {
+          "close" : "22:00",
+          "open" : "08:30"
+        },
+        "Sunday" : {
+          "close" : "2:00",
+          "open" : "08:30"
+        }
+      },
+      "breakfast" : {
+        "Breakfast Burrito" : 8.4,
+        "Breakfast Bucket" : 9.5,
+        "Kentucky Breakfast" : 4.2,
+        "Colonel Breakfast" : 6.75
+      },
+      "lunch" : {
+        "McDonald Fried Lunch" : 9.5,
+        "Clown Lunch" : 4.2,
+        "MC LUNCH" : 6.75
+      },
+      "dinner" : {
+        "Special Mac Dinner" : 9.5,
+        "Normal Mac Dinner" : 4.2,
+        "Cheap Mac Dinner" : 6.75
+      },
+      "standardmenu" : {
+        "McSpicy Meal" : 8.0,
+        "Sundae" : 2.0,
+        "Apple Pie" : 1.0
+      }
+    },
+    "KOI" : {
+      "image":"images/koi.jpg",
+      "waittime": 4,
+      "hours" : {
+        "Monday" : {
+          "close" : "21:30",
+          "open" : "08:30"
+        },
+        "Tuesday" : {
+          "close" : "21:30",
+          "open" : "08:30"
+        },
+        "Wednesday" : {
+          "close" : "21:30",
+          "open" : "10:00"
+        },
+        "Thursday" : {
+          "close" : "21:30",
+          "open" : "10:00"
+        },
+        "Friday" : {
+          "close" : "21:30",
+          "open" : "08:30"
+        },
+        "Saturday" : {
+          "close" : "21:30",
+          "open" : "Closed"
+        },
+        "Sunday" : {
+          "close" : "21:30",
+          "open" : "closed"
+        }
+      },
+      "breakfast" : {
+        "Morning Coffee" : 8.4,
+        "Breakfast Tea" : 9.5,
+        "Sunshine Bubble Tea" : 4.2,
+        "Pancake Boba" : 6.75
+      },
+      "lunch" : {
+        "Special Strawberry" : 9.5,
+        "Super Lunch Coffee" : 4.2,
+        "Surprise Lunch Tea" : 6.75
+      },
+      "dinner" : {
+        "Super Dinner Coffee" : 9.5,
+        "No need sleep Tea" : 4.2,
+        "Mugging Power Milk" : 6.75
+      },
+      "standardmenu" : {
+        "Strawberry Milk Tea" : 2.50,
+        "Bubble Tea" : 3.50,
+        "Original Milk Tea" : 2.0
+      }
+    },
+    "Subway" : {
+      "image":"images/freshsubway.jpg",
+      "waittime": 3,
+      "hours" : {
+        "Monday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Tuesday" : {
+          "close":"23:00",
+          "open" : "08:00"
+        },
+        "Wednesday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Thursday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Friday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Saturday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Sunday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        }
+      },
+      "breakfast" : {
+        "Breakfast Burrito" : 8.4,
+        "Breakfast Sandwich" : 9.5,
+        "Breakfast Sub" : 4.2
+      },
+      "lunch" : {
+        "Special Meatball Sub" : 9.5,
+        "Celery Soup" : 4.2,
+        "Potato Chips" : 6.75
+      },
+      "dinner" : {
+        "Cheesy Singles Sub" : 9.5,
+        "Tomato Soup" : 4.2,
+        "1 For 1 Special" : 6.75
+      },
+      "standardmenu" : {
+        "Spaghetti and Meatballs" : 8.0,
+        "Turkey Bacon Sub" : 6.0,
+        "Ham & Cheese Sub" : 7.0
+      }
+    },
+    "Grande Cibo" : {
+      "image":"images/mexican.jpg",
+      "waittime": 3,
+      "hours" : {
+        "Monday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Tuesday" : {
+          "close":"23:00",
+          "open" : "08:00"
+        },
+        "Wednesday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Thursday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Friday" : {
+          "close" : "23:00",
+          "open" : "08:00"
+        },
+        "Saturday" : {
+          "close" : "23:00",
+          "open" : "Closed"
+        },
+        "Sunday" : {
+          "close" : "23:00",
+          "open" : "Closed"
+        }
+      },
+      "breakfast" : {
+      },
+      "lunch" : {
+      },
+      "dinner" : {
+        "Pina Coladas" : 9.5,
+        "Grande Dinner" : 4.2
+      },
+      "standardmenu" : {
+        "Pizzas" : 12.0,
+        "Quesadillas" : 10.0,
+        "Salads" : 6.0
+      }
+    }
+  }
+}
