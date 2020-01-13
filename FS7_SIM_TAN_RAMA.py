@@ -1,8 +1,8 @@
 ##----------------------------------------------------------------------------
 ##  AUTHORS
-##  Sim Jia Xuen Eccles (U1920957D)
-##  Tan Teck Heng, Eugene (U1922830C)
-##  Renganathan Ramasamy (U1922494L)
+##  Sim Jia Xuen Eccles
+##  Tan Teck Heng, Eugene
+##  Renganathan Ramasamy
 ##----------------------------------------------------------------------------
 import tkinter as tk
 from tkinter import messagebox,ttk
